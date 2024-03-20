@@ -15,4 +15,7 @@
 * Je fais des modifs dans readme.md
 * Je commit et je push
 
+* Je pesne que je suis dans main
+* Je fais un push
+
 

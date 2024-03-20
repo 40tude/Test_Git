@@ -13,3 +13,6 @@
 * Clique sur main
 * Crée une branche Test1
 * Je fais des modifs dans readme.md
+* Je commit et je push
+
+
